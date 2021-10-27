@@ -24,7 +24,7 @@ body{
     border-top:none ;
     border-left:none ;
     border-right: none;
-    padding: 2.5em 6em;
+    padding: 1.8rem 1rem;
 
 }
 
@@ -38,11 +38,13 @@ body{
 
 .logo-main{
     position:relative;
-    padding: 10rem;
-    top: 30px;
-    background-size: 20rem;
+    left: 1%;
+    top: 65%;
+    padding: 15rem 15rem;
+    background-size: 100%;
     background-image: url(../img/logo_2.png);
     background-position: center;
+    background-repeat: no-repeat;
 }
 
 
@@ -87,6 +89,6 @@ body{
 }
 
 .bx-arrow-back{
-    font-size: 3em;
+    font-size: 2em;
 
 }
